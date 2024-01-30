@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlameirao1904&label=Profile%20views&color=0e75b6&style=flat" alt="dlameirao1904" /> </p>
 
-- 💬 Ask me about **mostly backend computing... or HTML**
+- 💬 Ask me about **mostly backend computing... or HTML or probably NextJS**
 
 - 📫 How to reach me **dl.rodrigues001@gmail.com**
 
